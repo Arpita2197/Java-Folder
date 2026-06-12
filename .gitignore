@@ -1,0 +1,9 @@
+# Ignore everything by default
+/*
+
+# Do not ignore the .gitignore file itself
+!.gitignore
+
+# Make an exception ONLY for the 3_contex folder and its contents
+!3_contex/
+!3_contex/**
