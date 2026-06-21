@@ -1,0 +1,4 @@
+class SpiderMan extends SuperHuman {
+
+
+}

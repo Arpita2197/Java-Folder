@@ -1,0 +1,4 @@
+class FourWheeler extends Vehicle {
+
+    
+}

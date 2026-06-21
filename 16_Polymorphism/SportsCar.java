@@ -1,0 +1,4 @@
+class SportsCar extends Car {
+
+    
+}
