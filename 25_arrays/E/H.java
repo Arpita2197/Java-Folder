@@ -1,0 +1,8 @@
+class H {
+
+   public static void main(String[] args) {
+
+      Animal x = new dog();
+   }
+     
+}

@@ -1,0 +1,4 @@
+class Bdog extends dog {
+
+    
+}
