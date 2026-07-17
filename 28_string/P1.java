@@ -1,0 +1,17 @@
+class P1 {
+
+    public static void main(String[] args) {
+
+        String x = new String("mohan");
+         String y = new String("mohan");
+          String z = new String("moHaN");
+
+          System.out.println(x.equals(y));   
+           System.out.println("~~~~~~~~~~~~~~");
+         System.out.println(x.equals(z));
+
+          System.out.println(x.equalsIgnoreCase(z));
+
+    }
+
+}
